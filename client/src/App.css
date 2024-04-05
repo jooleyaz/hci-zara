@@ -1,0 +1,155 @@
+.screen {
+  display: flex;
+  justify-content: center;
+}
+
+.products img {
+  width: 50vw;
+  padding: 20px;
+  float: right;
+}
+
+.left-panel {
+  width: 50vw;
+  float: left;
+  padding: 20px;
+}
+
+.color-filter {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+  gap: 20px;
+  padding: 50px 0 50px 0
+}
+
+.color-block {
+  width: 100px;
+  height: 100px;
+  margin: 20px;
+  border: 2px solid rgb(72, 72, 72);
+}
+
+#red-block {
+  background-color: red;
+}
+#orange-block {
+  background-color: orange;
+}
+#yellow-block {
+  background-color: rgb(246, 246, 118);
+}
+#green-block {
+  background-color: rgb(90, 218, 90);
+}
+#blue-block {
+  background-color: rgb(56, 56, 255);
+}
+#purple-block {
+  background-color: rgb(169, 64, 234);
+}
+#pink-block {
+  background-color: rgb(255, 152, 170);
+}
+#black-block {
+  background-color: black;
+}
+#white-block {
+  background-color: white;
+}
+#grey-block {
+  background-color: grey;
+}
+
+.product-grid {
+  width: 75vw;
+  float: right;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+  gap: 20px;
+  padding: 20px;
+}
+
+.product-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.product-card img {
+  width: 100%;
+  height: 100%;
+}
+
+.product-info {
+  padding: 15px;
+  text-align: center;
+}
+
+.product-info h2 {
+  margin: 0;
+  padding: 10px 0;
+  font-size: 20px;
+}
+
+.product-info p {
+  margin: 0;
+  padding: 5px 0;
+}
+
+button {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+
+
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
