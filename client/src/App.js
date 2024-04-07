@@ -92,7 +92,6 @@ function App() {
 ]);
 
   const [selectedColors, setSelectedColors] = useState([]);
-
   const addColor = (color) => {
     setSelectedColors(prevColors => {
       // If the color is already selected, remove it, otherwise add it
@@ -104,8 +103,21 @@ function App() {
     });
   };
 
+  const [selectedTypes, setSelectedTypes] = useState([]);
+  const addType = (type) => {
+    setSelectedTypes(prevTypes => {
+      // If the color is already selected, remove it, otherwise add it
+      if (prevTypes.includes(type)) {
+        return prevTypes.filter(t => t !== type);
+      } else {
+        return [...prevTypes, type];
+      }
+    });
+  };
+
   const filteredProducts = products.filter(product => 
-    selectedColors.length === 0 || selectedColors.includes(product.color)
+    (selectedColors.length === 0 || selectedColors.includes(product.color)) 
+    && (selectedTypes.length === 0 || selectedTypes.includes(product.type))
   );
 
   return (
@@ -122,24 +134,24 @@ function App() {
 
             </div>
             <div className="type-filter">
-
+              <button id="tops-button" className="type-block" onClick={() => addType("tops")}>Tops</button>
+              <button id="bottoms-button" className="type-block" onClick={() => addType("pants")}>Pants</button>
+              <button id="shoes-button" className="type-block" onClick={() => addType("shoes")}>Shoes</button>
             </div>
 
             <div className="color-filter">
-                <div id="red-block" className="color-block"></div>
-                <div id="orange-block" className="color-block"></div>
-                <div id="yellow-block" className="color-block"></div>
-                <div id="green-block" className="color-block"></div>
-                <div id="blue-block" className="color-block"></div>
-                <div id="purple-block" className="color-block"></div>
-                <div id="pink-block" className="color-block"></div>
-                <div id="black-block" className="color-block"></div>
-                <div id="white-block" className="color-block"></div>
-                <div id="grey-block" className="color-block"></div>
+                <div id="red-block" className="color-block" onClick={() => addColor("red")}>Red</div>
+                <div id="orange-block" className="color-block" onClick={() => addColor("orange")}>Orange</div>
+                <div id="yellow-block" className="color-block" onClick={() => addColor("yellow")}>Yellow</div>
+                <div id="green-block" className="color-block" onClick={() => addColor("green")}>Green</div>
+                <div id="blue-block" className="color-block" onClick={() => addColor("blue")}>Blue</div>
+                <div id="purple-block" className="color-block" onClick={() => addColor("purple")}>Purple</div>
+                <div id="pink-block" className="color-block" onClick={() => addColor("pink")}>Pink</div>
+                <div id="black-block" className="color-block" onClick={() => addColor("black")}>Black</div>
+                <div id="white-block" className="color-block" onClick={() => addColor("white")}>White</div>
+                <div id="grey-block" className="color-block" onClick={() => addColor("grey")}>Grey</div>
             </div>
           </div>
-          <button onClick={() => addColor("blue")}>Toggle blue</button>
-          <button onClick={() => addColor("white")}>Toggle white</button>
         </div>
 
         <div className="products">

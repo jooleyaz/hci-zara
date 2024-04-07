@@ -15,11 +15,20 @@
   padding: 20px;
 }
 
+.type-filter {
+  padding: 50px 0 25px 0;
+}
+
+.type-filter button {
+  margin: 0 20px 0 20px;
+  width: 150px;
+}
+
 .color-filter {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
   gap: 20px;
-  padding: 50px 0 50px 0
+  padding: 25px 0 50px 0;
 }
 
 .color-block {
@@ -27,6 +36,12 @@
   height: 100px;
   margin: 20px;
   border: 2px solid rgb(72, 72, 72);
+  box-sizing: border-box;
+}
+
+.color-block:hover {
+  border: 6px solid rgb(72, 72, 72);
+  box-sizing: border-box;
 }
 
 #red-block {
@@ -100,16 +115,16 @@
 }
 
 button {
-  background-color: #007bff;
-  color: white;
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
   padding: 10px 20px;
-  border: none;
-  border-radius: 5px;
+  border: 2px solid black;
   cursor: pointer;
+  font-size: x-large;
 }
 
 button:hover {
-  background-color: #0056b3;
+  background-color: #cfcfcf;
 }
 
 
