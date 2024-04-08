@@ -42,5 +42,6 @@
   "proxy": "http://localhost:3001",
   "devDependencies": {
     "gh-pages": "^6.1.1"
-  }
+  },
+  "homepage": "http://jooleyaz.github.io/zara-redesign"
 }
