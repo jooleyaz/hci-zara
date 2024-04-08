@@ -1,6 +1,7 @@
 import React from 'react';
+import {Navigate} from 'react-router-dom';
 
-const Product = ({ title, image, price, color, type }) => {
+const Product = ({ title, image, price, color, type, id }) => {
 
     return (
         <div className="product-card">
