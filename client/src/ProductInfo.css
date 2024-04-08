@@ -1,0 +1,43 @@
+.navbar {
+    height: 20vh;
+}
+.navbar svg {
+    height: 100%;
+}
+
+.screen {
+    display: flex;
+}
+
+.panel1 {
+    width: 33vw;
+    display: flex;
+    align-items: left;
+    flex-direction: column;
+}
+.details {
+    width: 75%;
+    align-self: center;
+}
+
+.panel2 {
+    width: 33vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.panel2 img {
+    border: 2px solid black;
+    width: 75%;
+}
+
+.panel3 {
+    width: 33vw;
+    display: flex;
+    align-items: left;
+    flex-direction: column;
+}
+.item-info {
+    width: 75%;
+    align-self: center;
+}
