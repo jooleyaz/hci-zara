@@ -61,7 +61,7 @@ function ProductInfo ({database}) {
                         <p>{product.price}</p>
                         <p>{product.color}</p>
                         <p>{product.type}</p>
-                        <p>{product.description}</p> 
+                        <p>Fake description here: Jeans with a high waist with belt loops. Five pockets. Front zip and button closure.</p> 
                     </div>
                 </div>
             </div>
