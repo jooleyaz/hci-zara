@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import Product from './Product';
 import './App.css';
 import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
@@ -6,11 +6,6 @@ import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
 function Browsing({database}) {
   const [productData, setProductData] = React.useState(null);
   const products = database;
-  React.useEffect(() => {
-    fetch("/products")
-      .then((res) => res.json())
-      .then ((data) => setProductData(data.message));
-  }, []);
 
   const [selectedColors, setSelectedColors] = useState([]);
   const [selectedTypes, setSelectedTypes] = useState([]);
@@ -44,8 +39,6 @@ function Browsing({database}) {
   return (
     
     <div className="App">
-
-      <p>{productData}</p>
 
       <div className="screen">
 
