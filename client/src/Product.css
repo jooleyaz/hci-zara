@@ -1,0 +1,27 @@
+.product-card {
+    position: relative;
+}
+.middle {
+    opacity: 0;
+    transition: 0.2s ease;
+    position: absolute;
+    align-items: center;
+    top: 50%;
+    transform: translate(0, -50%);
+    font-size: 20pt;
+    width: 60%;
+}
+.info {
+    background-color: white;
+    padding: 10px;
+    opacity: 0.8;
+    border-radius: 2px;
+    color: black;
+    font-weight:600;
+}
+.product-card:hover img {
+    opacity: 0.8;
+}
+.product-card:hover .middle {
+    opacity: 1;
+}

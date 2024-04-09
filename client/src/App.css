@@ -13,39 +13,67 @@
   width: 50vw;
   float: left;
   padding: 20px;
+  position: sticky
 }
 
 .type-filter {
-  padding: 50px 0 25px 0;
+  padding: 10px 0 10px 0;
 }
 
 .type-filter button {
   margin: 0 20px 0 20px;
-  width: 150px;
+  width: 160px;
+  font-weight: 600;
+  font-size: 30px;
+  border-radius: 3px;
 }
 
 .color-filter {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-  gap: 20px;
-  padding: 25px 0 50px 0;
+  grid-template-columns: repeat(5, minmax(100px, 1fr));
+  gap: 10px;
+  padding: 10px 0 10px 0;
 }
 
 .color-block {
   width: 100px;
   height: 100px;
   margin: 20px;
-  border: 2px solid rgb(72, 72, 72);
+  border: 3px solid rgb(72, 72, 72);
+  box-sizing: border-box;
+  border-radius: 3px;
+}
+
+.bold-type {
+  background-color: #cfcfcf;
+}
+
+.bold-border {
+  border: 8px solid rgb(91, 91, 91);
   box-sizing: border-box;
 }
 
 .size-block {
   width: 100px;
   height: 100px;
-  border: 2px solid rgb(72, 72, 72);
+  border: 3px solid rgb(72, 72, 72);
   font-size: 30pt;
   text-align: center;
   line-height: 100px;
+  border-radius: 3px;
+  font-weight: 600;
+}
+.bold-size {
+  width: 100px;
+  height: 100px;
+  border: 3px solid rgb(72, 72, 72);
+  font-size: 30pt;
+  text-align: center;
+  line-height: 100px;
+  border-radius: 3px;
+  font-weight: 600;
+  border: 8px solid rgb(91, 91, 91);
+  box-sizing: border-box;
 }
 
 .size-filter {
@@ -57,7 +85,11 @@
 }
 
 .color-block:hover {
-  border: 6px solid rgb(72, 72, 72);
+  border: 8px solid rgb(116, 116, 116);
+  box-sizing: border-box;
+}
+.size-block:hover {
+  border: 8px solid rgb(116, 116, 116);
   box-sizing: border-box;
 }
 
@@ -99,6 +131,8 @@
   grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
   gap: 20px;
   padding: 20px;
+  overflow-y: scroll;
+  height: 1200px;
 }
 
 .product-card {
