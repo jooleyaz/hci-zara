@@ -5,7 +5,8 @@
         "image": "https://static.zara.net/assets/public/159b/e920/f5354f12aebb/482e85a52763/08246067250-e1/08246067250-e1.jpg?ts=1712135152369&w=563",
         "price": "65.90",
         "color": "white",
-        "type": "pants"
+        "type": "pants",
+        "size": "xs"
     },
     {
         "id": "2",
@@ -13,7 +14,8 @@
         "image": "https://static.zara.net/assets/public/0a84/f835/7ec7417a8dc3/612916f34de6/06045022800-015-e1/06045022800-015-e1.jpg?ts=1710241554433&w=563",
         "price": "65.90",
         "color": "black",
-        "type": "pants"
+        "type": "pants",
+        "size": "s"
     },
     {
         "id": "3",
@@ -21,7 +23,8 @@
         "image": "https://static.zara.net/photos///2023/I/0/1/p/1934/246/800/2/w/563/1934246800_6_1_1.jpg?ts=1691144043427",
         "price": "65.90",
         "color": "black",
-        "type": "pants"
+        "type": "pants",
+        "size": "m"
     },
     {
         "id": "4",
@@ -29,7 +32,8 @@
         "image": "https://static.zara.net/assets/public/4e9d/f2f2/a54a4b68bf44/a40cedb9ea28/02569200807-e1/02569200807-e1.jpg?ts=1705659900030&w=563",
         "price": "65.90",
         "color": "black",
-        "type": "pants"
+        "type": "pants",
+        "size": "l"
     },
     {
         "id": "5",
@@ -37,7 +41,8 @@
         "image": "https://static.zara.net/assets/public/5ea7/3949/30c24ede8331/902074732ff6/00943040427-e1/00943040427-e1.jpg?ts=1706635252630&w=563",
         "price": "65.90",
         "color": "blue",
-        "type": "pants"
+        "type": "pants",
+        "size": "xl"
     },
     {
         "id": "6",
@@ -45,7 +50,8 @@
         "image": "https://static.zara.net/assets/public/6936/9aa6/4f2e42f5a0f3/23ff1e3ecc0a/04938005505-e1/04938005505-e1.jpg?ts=1711541489574&w=563",
         "price": "29.90",
         "color": "green",
-        "type": "tops"
+        "type": "tops",
+        "size": "xxl"
     },
     {
         "id": "7",
@@ -53,7 +59,8 @@
         "image": "https://static.zara.net/assets/public/1b53/16f1/7a69414ea93f/7bb02cd2e49c/05755014620-e1/05755014620-e1.jpg?ts=1710507346591&w=563",
         "price": "35.90",
         "color": "pink",
-        "type": "tops"
+        "type": "tops",
+        "size": "xs"
     },
     {
         "id": "8",
@@ -61,7 +68,8 @@
         "image": "https://static.zara.net/assets/public/016e/5c41/67f6476397e0/4fbd61766470/05039169620-e1/05039169620-e1.jpg?ts=1708936249047&w=563",
         "price": "39.90",
         "color": "pink",
-        "type": "tops"
+        "type": "tops",
+        "size": "s"
     },
     {
         "id": "9",
@@ -69,7 +77,8 @@
         "image": "https://static.zara.net/assets/public/fdde/c67d/f3104681b5dc/800abc873ca4/07901325423-e1/07901325423-e1.jpg?ts=1708422553969&w=563",
         "price": "29.90",
         "color": "blue",
-        "type": "tops"
+        "type": "tops",
+        "size": "m"
     },
     {
         "id": "10",
@@ -77,7 +86,8 @@
         "image": "https://static.zara.net/assets/public/dcef/71d2/d8474796a537/73a993ef0312/02170331500-e1/02170331500-e1.jpg?ts=1711100453834&w=563",
         "price": "39.90",
         "color": "green",
-        "type": "tops"
+        "type": "tops",
+        "size": "l"
     },
     {
         "id": "11",
@@ -85,7 +95,8 @@
         "image": "https://static.zara.net/assets/public/e882/44ef/73824c04976b/cedc0b68f3c9/03067035044-e1/03067035044-e1.jpg?ts=1709804968995&w=563",
         "price": "39.90",
         "color": "blue",
-        "type": "tops"
+        "type": "tops",
+        "size": "xl"
     },
     {
         "id": "12",
@@ -93,7 +104,8 @@
         "image": "https://static.zara.net/assets/public/2718/76ba/440449539720/749cd0b9e977/13503310001-e5/13503310001-e5.jpg?ts=1712156531829&w=563",
         "price": "129.00",
         "color": "white",
-        "type": "shoes"
+        "type": "shoes",
+        "size": "xxl"
     },
     {
         "id": "13",
@@ -101,7 +113,8 @@
         "image": "https://static.zara.net/assets/public/8be4/b1c1/31064042b373/a714c5076140/11548310401-e5/11548310401-e5.jpg?ts=1711112285770&w=563",
         "price": "69.90",
         "color": "blue",
-        "type": "shoes"
+        "type": "shoes",
+        "size": "xs"
     },
     {
         "id": "14",
@@ -109,7 +122,8 @@
         "image": "https://static.zara.net/assets/public/f1aa/5abb/2f884cacafd9/8d806cfc6e1d/12543310020-e5/12543310020-e5.jpg?ts=1708944982212&w=563",
         "price": "69.90",
         "color": "red",
-        "type": "shoes"
+        "type": "shoes",
+        "size": "s"
     },
     {
         "id": "15",
@@ -117,7 +131,8 @@
         "image": "https://static.zara.net/assets/public/34e0/9850/8fc440d3a676/fd821a45f45c/13621310050-e5/13621310050-e5.jpg?ts=1712223938801&w=2400",
         "price": "59.90",
         "color": "pink",
-        "type": "shoes"
+        "type": "shoes",
+        "size": "m"
     },
     {
         "id": "16",
@@ -125,7 +140,8 @@
         "image": "https://static.zara.net/assets/public/2749/a1b5/7d1d45eabd5f/75f21c04d651/11608310800-e5/11608310800-e5.jpg?ts=1707480620275&w=2400",
         "price": "59.90",
         "color": "black",
-        "type": "shoes"
+        "type": "shoes",
+        "size": "l"
     },
     {
         "id": "17",
@@ -133,7 +149,8 @@
         "image": "https://static.zara.net/assets/public/c932/5a50/234f41ac9f0f/6eb912e98f36/11538310052-e5/11538310052-e5.jpg?ts=1708527313348&w=2400",
         "price": "69.90",
         "color": "pink",
-        "type": "shoes"
+        "type": "shoes",
+        "size": "xl"
     },
     {
         "id": "18",
@@ -141,7 +158,8 @@
         "image": "https://static.zara.net/assets/public/c1a9/040b/19a8449d8cd0/d2d78ea52967/12602310002-e5/12602310002-e5.jpg?ts=1706715558929&w=750",
         "price": "49.90",
         "color": "white",
-        "type": "shoes"
+        "type": "shoes",
+        "size": "xxl"
     },
     {
         "id": "19",
@@ -149,7 +167,8 @@
         "image": "https://static.zara.net/assets/public/b21f/2e7b/4a4f41e49261/2ea1ec295eae/00858305306-e1/00858305306-e1.jpg?ts=1712242879830&w=750",
         "price": "29.90",
         "color": "yellow",
-        "type": "tops"
+        "type": "tops",
+        "size": "xs"
     },
     {
         "id": "20",
@@ -157,7 +176,8 @@
         "image": "https://static.zara.net/assets/public/526c/094d/14144965ba6a/707b09466626/05536056500-e1/05536056500-e1.jpg?ts=1712140869629&w=750",
         "price": "35.90",
         "color": "green",
-        "type": "tops"
+        "type": "tops",
+        "size": "s"
     },
     {
         "id": "21",
@@ -165,7 +185,8 @@
         "image": "https://static.zara.net/assets/public/9f57/e011/c582462e9c44/abbe45101558/03471004070-p/03471004070-p.jpg?ts=1712219036598&w=750",
         "price": "29.90",
         "color": "white",
-        "type": "tops"
+        "type": "tops",
+        "size": "m"
     },
     {
         "id": "22",
@@ -173,7 +194,8 @@
         "image": "https://static.zara.net/assets/public/ead3/4d46/289b45e28e76/3dab30ecd0bd/03644009615-e1/03644009615-e1.jpg?ts=1711477907814&w=750",
         "price": "35.90",
         "color": "orange",
-        "type": "tops"
+        "type": "tops",
+        "size": "l"
     },
     {
         "id": "23",
@@ -181,7 +203,8 @@
         "image": "https://static.zara.net/assets/public/a1c6/e63a/52014bc09ef0/3c5668d1f5a6/05644170615-e1/05644170615-e1.jpg?ts=1707930626513&w=750",
         "price": "29.90",
         "color": "orange",
-        "type": "tops"
+        "type": "tops",
+        "size": "xl"
     },
     {
         "id": "24",
@@ -189,7 +212,8 @@
         "image": "https://static.zara.net/assets/public/540e/347f/3d8c4ba7b1c8/d6018fabb8df/06050315611-e1/06050315611-e1.jpg?ts=1711534744502&w=750",
         "price": "27.90",
         "color": "purple",
-        "type": "tops"
+        "type": "tops",
+        "size": "xxl"
     },
     {
         "id": "25",
@@ -197,7 +221,8 @@
         "image": "https://static.zara.net/assets/public/50b8/d49c/68fa4e86833b/ad59efe2705f/04661426420-e1/04661426420-e1.jpg?ts=1712242866822&w=750",
         "price": "65.90",
         "color": "blue",
-        "type": "pants"
+        "type": "pants",
+        "size": "xs"
     },
     {
         "id": "26",
@@ -205,7 +230,8 @@
         "image": "https://static.zara.net/assets/public/9be2/ee53/94e643cdb1ff/3ff73bbc9da3/00858309306-e1/00858309306-e1.jpg?ts=1712242884119&w=750",
         "price": "39.90",
         "color": "yellow",
-        "type": "pants"
+        "type": "pants",
+        "size": "s"
     },
     {
         "id": "27",
@@ -213,7 +239,8 @@
         "image": "https://static.zara.net/assets/public/35e5/e017/1ff344d18d49/c55b842bae91/02486178500-e1/02486178500-e1.jpg?ts=1710351065363&w=750",
         "price": "79.90",
         "color": "green",
-        "type": "pants"
+        "type": "pants",
+        "size": "m"
     },
     {
         "id": "28",
@@ -221,7 +248,8 @@
         "image": "https://static.zara.net/assets/public/7a9d/dbf9/e2af439dbc3b/7deeacd8be87/02731045632-e1/02731045632-e1.jpg?ts=1706798719020&w=750",
         "price": "79.90",
         "color": "red",
-        "type": "pants"
+        "type": "pants",
+        "size": "l"
     },
     {
         "id": "29",
@@ -229,7 +257,8 @@
         "image": "https://static.zara.net/assets/public/3f06/6e71/f28f4202b51b/f42fe7c33ab9/01478062645-e1/01478062645-e1.jpg?ts=1706635285461&w=750",
         "price": "55.90",
         "color": "pink",
-        "type": "pants"
+        "type": "pants",
+        "size": "xl"
     },
     {
         "id": "30",
@@ -237,7 +266,8 @@
         "image": "https://static.zara.net/assets/public/4e1d/6935/de1e4852b239/839666eb54e9/02945200800-e1/02945200800-e1.jpg?ts=1712317766473&w=750",
         "price": "39.90",
         "color": "black",
-        "type": "tops"
+        "type": "tops",
+        "size": "xxl"
     },
     {
         "id": "31",
@@ -245,7 +275,8 @@
         "image": "https://static.zara.net/assets/public/8c9e/f0f7/29f74321a159/df671f859251/02294791407-e1/02294791407-e1.jpg?ts=1708936228992&w=750",
         "price": "45.90",
         "color": "blue",
-        "type": "tops"
+        "type": "tops",
+        "size": "xs"
     },
     {
         "id": "32",
@@ -253,7 +284,8 @@
         "image": "https://static.zara.net/assets/public/8963/25ea/22f640f68596/1b88d88a3e07/03069369712-e1/03069369712-e1.jpg?ts=1712242871003&w=750",
         "price": "45.90",
         "color": "white",
-        "type": "tops"
+        "type": "tops",
+        "size": "s"
     },
     {
         "id": "33",
@@ -261,7 +293,8 @@
         "image": "https://static.zara.net/assets/public/00ed/6062/27504a7ba696/4fc2cfe7a441/02618321513-e1/02618321513-e1.jpg?ts=1708074131008&w=750",
         "price": "45.90",
         "color": "green",
-        "type": "tops"
+        "type": "tops",
+        "size": "m"
     },
     {
         "id": "34",
@@ -269,7 +302,8 @@
         "image": "https://static.zara.net/assets/public/b77e/d82b/a1374000b9f5/6fc5b828bfef/03641323600-e1/03641323600-e1.jpg?ts=1708605355843&w=750",
         "price": "29.90",
         "color": "red",
-        "type": "tops"
+        "type": "tops",
+        "size": "l"
     },
     {
         "id": "35",
@@ -277,7 +311,8 @@
         "image": "https://static.zara.net/assets/public/576f/ca30/051a4b85ac93/d56780c9e198/02335152430-e1/02335152430-e1.jpg?ts=1710507345917&w=750",
         "price": "27.90",
         "color": "blue",
-        "type": "tops"
+        "type": "tops",
+        "size": "xl"
     },
     {
         "id": "36",
@@ -285,7 +320,8 @@
         "image": "https://static.zara.net/assets/public/14ff/6b6a/fd8742dcb1e6/f746d09c3e76/03905161800-e1/03905161800-e1.jpg?ts=1708074145257&w=750",
         "price": "27.90",
         "color": "black",
-        "type": "tops"
+        "type": "tops",
+        "size": "xxl"
     },
     {
         "id": "37",
@@ -293,7 +329,8 @@
         "image": "https://static.zara.net/assets/public/c552/1aed/156749c18280/bd662d240521/09598375802-e1/09598375802-e1.jpg?ts=1708074194731&w=750",
         "price": "55.90",
         "color": "grey",
-        "type": "tops"
+        "type": "tops",
+        "size": "xs"
     },
     {
         "id": "38",
@@ -301,7 +338,8 @@
         "image": "https://static.zara.net/assets/public/2eb8/efb0/d7a648a7af24/ccc454f45ac5/09598017802-e1/09598017802-e1.jpg?ts=1708936278472&w=750",
         "price": "55.90",
         "color": "grey",
-        "type": "tops"
+        "type": "tops",
+        "size": "s"
     },
     {
         "id": "39",
@@ -309,7 +347,8 @@
         "image": "https://static.zara.net/assets/public/5d2f/40b9/5811486381a7/8f211994a799/01889072802-e1/01889072802-e1.jpg?ts=1711540425808&w=750",
         "price": "65.90",
         "color": "grey",
-        "type": "pants"
+        "type": "pants",
+        "size": "m"
     },
     {
         "id": "40",
@@ -317,7 +356,8 @@
         "image": "https://static.zara.net/photos///2024/V/0/1/p/3643/050/807/2/w/750/3643050807_6_1_1.jpg?ts=1705064123484",
         "price": "45.90",
         "color": "grey",
-        "type": "pants"
+        "type": "pants",
+        "size": "l"
     },
     {
         "id": "41",
@@ -325,7 +365,8 @@
         "image": "https://static.zara.net/assets/public/411d/138c/82244a2c8943/501173b2decb/01416023506-e1/01416023506-e1.jpg?ts=1711540443622&w=750",
         "price": "55.90",
         "color": "green",
-        "type": "pants"
+        "type": "pants",
+        "size": "xl"
     },
     {
         "id": "42",
@@ -333,7 +374,8 @@
         "image": "https://static.zara.net/assets/public/c108/154a/4d7f4ae3809c/140a68c77f20/06840042500-e1/06840042500-e1.jpg?ts=1707324085608&w=750",
         "price": "65.90",
         "color": "green",
-        "type": "pants"
+        "type": "pants",
+        "size": "xxl"
     },
     {
         "id": "43",
@@ -341,7 +383,8 @@
         "image": "https://static.zara.net/assets/public/f05b/0dab/84a64b74911d/b9e12c384a30/00264820800-e1/00264820800-e1.jpg?ts=1712322160393&w=750",
         "price": "35.90",
         "color": "black",
-        "type": "tops"
+        "type": "tops",
+        "size": "xs"
     },
     {
         "id": "44",
@@ -349,7 +392,8 @@
         "image": "https://static.zara.net/assets/public/4447/efae/7a174d97b687/c1e7c4ec0621/04424514630-e1/04424514630-e1.jpg?ts=1710507338605&w=750",
         "price": "16.90",
         "color": "pink",
-        "type": "tops"
+        "type": "tops",
+        "size": "s"
     },
     {
         "id": "45",
@@ -357,7 +401,8 @@
         "image": "https://static.zara.net/assets/public/4bf3/2951/5ba54c289f03/ae858f7638a8/03253322643-e1/03253322643-e1.jpg?ts=1712052675528&w=750",
         "price": "14.90",
         "color": "orange",
-        "type": "tops"
+        "type": "tops",
+        "size": "m"
     },
     {
         "id": "46",
@@ -365,7 +410,8 @@
         "image": "https://static.zara.net/assets/public/650d/1f9e/c4d24b41ad25/f88079eb0611/04174164600-e1/04174164600-e1.jpg?ts=1712135160049&w=750",
         "price": "18.90",
         "color": "red",
-        "type": "tops"
+        "type": "tops",
+        "size": "l"
     },
     {
         "id": "47",
@@ -373,7 +419,8 @@
         "image": "https://static.zara.net/assets/public/6fcb/767e/01324e62ac0b/8f79432cebda/03641326912-e1/03641326912-e1.jpg?ts=1709300016388&w=563",
         "price": "16.90",
         "color": "green",
-        "type": "tops"
+        "type": "tops",
+        "size": "xl"
     },
     {
         "id": "48",
@@ -381,7 +428,8 @@
         "image": "https://static.zara.net/assets/public/0f46/1a2f/8d8f4cdda8db/0840bc92a720/11206310600-e5/11206310600-e5.jpg?ts=1704364926267&w=563",
         "price": "59.90",
         "color": "red",
-        "type": "shoes"
+        "type": "shoes",
+        "size": "xxl"
     },
     {
         "id": "49",
@@ -389,7 +437,8 @@
         "image": "https://static.zara.net/assets/public/623f/e8bf/cb0044c7a759/0c0f542fa9b5/11216310070-e5/11216310070-e5.jpg?ts=1708359970718&w=563",
         "price": "59.90",
         "color": "orange",
-        "type": "shoes"
+        "type": "shoes",
+        "size": "xs"
     },
     {
         "id": "50",
@@ -397,6 +446,7 @@
         "image": "https://static.zara.net/assets/public/3405/e90a/015f4ef5a801/02e15169a9f6/15530310044-e5/15530310044-e5.jpg?ts=1708944769356&w=563",
         "price": "45.90",
         "color": "blue",
-        "type": "shoes"
+        "type": "shoes",
+        "size": "s"
     }
 ]
