@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/zara-redesign/static/css/main.9b8c6075.css",
-    "main.js": "/zara-redesign/static/js/main.11f81283.js",
+    "main.js": "/zara-redesign/static/js/main.79b35ff5.js",
     "static/js/453.ed3810f9.chunk.js": "/zara-redesign/static/js/453.ed3810f9.chunk.js",
     "index.html": "/zara-redesign/index.html",
     "main.9b8c6075.css.map": "/zara-redesign/static/css/main.9b8c6075.css.map",
-    "main.11f81283.js.map": "/zara-redesign/static/js/main.11f81283.js.map",
+    "main.79b35ff5.js.map": "/zara-redesign/static/js/main.79b35ff5.js.map",
     "453.ed3810f9.chunk.js.map": "/zara-redesign/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9b8c6075.css",
-    "static/js/main.11f81283.js"
+    "static/js/main.79b35ff5.js"
   ]
 }
