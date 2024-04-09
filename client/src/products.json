@@ -448,5 +448,59 @@
         "color": "blue",
         "type": "shoes",
         "size": "s"
+    },
+    {
+        "id": "51",
+        "title": "DERBY STYLE SNEAKERS",
+        "image": "https://static.zara.net/assets/public/09cb/082b/e9524b93b58a/f4361d27298b/15703310001-e5/15703310001-e5.jpg?ts=1707467237446&w=563",
+        "price": "49.90",
+        "color": "white",
+        "type": "shoes",
+        "size": "m"
+    },
+    {
+        "id": "52",
+        "title": "CASUAL FABRIC SNEAKERS",
+        "image": "https://static.zara.net/assets/public/e0f7/7a42/d41b4231b2a1/2b18800280e4/15426310032-e5/15426310032-e5.jpg?ts=1707823789263&w=750",
+        "price": "49.90",
+        "color": "green",
+        "type": "shoes",
+        "size": "l"
+    },
+    {
+        "id": "53",
+        "title": "SNEAKERS",
+        "image": "https://static.zara.net/assets/public/bcf1/bdd6/ab854fd294d4/636a4e0227fd/15008310002-e5/15008310002-e5.jpg?ts=1707122578787&w=750",
+        "price": "79.90",
+        "color": "white",
+        "type": "shoes",
+        "size": "xl"
+    },
+    {
+        "id": "54",
+        "title": "SWEATSHIRT WITH ADJUSTABLE DRAWSTRING HOOD",
+        "image": "https://static.zara.net/assets/public/0de5/a610/b824437aab41/8a689b6ace95/08417304620-e1/08417304620-e1.jpg?ts=1707219489430&w=750",
+        "price": "39.90",
+        "color": "pink",
+        "type": "tops",
+        "size": "xxl"
+    },
+    {
+        "id": "55",
+        "title": "OVERSIZED SWEATSHIRT",
+        "image": "https://static.zara.net/assets/public/da3f/1fd3/ed944a3d8e07/0380d0554089/03854302615-e1/03854302615-e1.jpg?ts=1706801090129&w=750",
+        "price": "45.90",
+        "color": "orange",
+        "type": "tops",
+        "size": "xs"
+    },
+    {
+        "id": "56",
+        "title": "PLUSH SWEATSHIRT WITH HOOD",
+        "image": "https://static.zara.net/assets/public/fbf0/222e/dfe441259cd8/b3eab6d0ba10/04174869804-e1/04174869804-e1.jpg?ts=1705336997100&w=750",
+        "price": "65.90",
+        "color": "grey",
+        "type": "tops",
+        "size": "s"
     }
 ]
